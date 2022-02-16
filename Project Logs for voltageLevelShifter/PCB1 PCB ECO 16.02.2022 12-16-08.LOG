@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=+5 Pin=CN1-2
+Removed Pin From Net: NetName=N_TX Pin=CN2-1
+Removed Pin From Net: NetName=N_RX Pin=CN2-2
+Removed Pin From Net: NetName=A_TX Pin=CN3-1
+Removed Pin From Net: NetName=A_RX Pin=CN3-2
+Removed Member From Class: ClassName=Sheet1 Member=CN3
+Change Component Footprint: Designator=CN1 Old Footprint=2P_HEADER New Footprint=3P_HEADER
+Change Component Footprint: Designator=CN2 Old Footprint=2P_HEADER New Footprint=3P_HEADER
+Change Component Comment : Designator=CN1 Old Comment=2P_HEADER New Comment=3P_HEADER
+Change Component Comment : Designator=CN2 Old Comment=2P_HEADER New Comment=3P_HEADER
+Added Pin To Net: NetName=N_TX Pin=CN1-2
+Added Pin To Net: NetName=N_RX Pin=CN1-3
+Added Pin To Net: NetName=A_TX Pin=CN2-1
+Added Pin To Net: NetName=A_RX Pin=CN2-2
+Added Pin To Net: NetName=+5 Pin=CN2-3

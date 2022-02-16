@@ -1,0 +1,12 @@
+Added Component: Designator=CN1(2P_HEADER)
+Added Component: Designator=CN2(2P_HEADER)
+Added Component: Designator=CN3(2P_HEADER)
+Added Pin To Net: NetName=3v3 Pin=CN1-1
+Added Pin To Net: NetName=+5 Pin=CN1-2
+Added Pin To Net: NetName=N_TX Pin=CN2-1
+Added Pin To Net: NetName=N_RX Pin=CN2-2
+Added Pin To Net: NetName=A_TX Pin=CN3-1
+Added Pin To Net: NetName=A_RX Pin=CN3-2
+Added Member To Class: ClassName=Sheet1 Member=Component CN1 2P_HEADER
+Added Member To Class: ClassName=Sheet1 Member=Component CN2 2P_HEADER
+Added Member To Class: ClassName=Sheet1 Member=Component CN3 2P_HEADER
